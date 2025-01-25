@@ -1,0 +1,11 @@
+# Exclude large raw data and intermediate files
+data/SRR925811.sra
+data/SRR925811.sra.vdbcache
+data/CM*
+data/reference_genome/
+results/fastqc_reports/
+*.bam
+*.sam
+*.fastq
+*.idx
+

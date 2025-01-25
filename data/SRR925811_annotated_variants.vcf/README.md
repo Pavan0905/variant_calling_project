@@ -1,0 +1,1 @@
+This directory is intended to store annotated VCF files. Due to file size constraints, the actual files are not included in this repository. Please download the necessary data from [NCBI](https://www.ncbi.nlm.nih.gov/) or the specified source in the project report.
