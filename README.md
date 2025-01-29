@@ -129,5 +129,5 @@ bash scripts/run_pipeline.sh
   Northeastern University, US
 
 ## Contact
-For questions or collaboration, reach out via **GitHub Issues** or email at **your_email@domain.com**.
+For questions or collaboration, reach out via **GitHub Issues** or email at singuru.p@domain.com
 
